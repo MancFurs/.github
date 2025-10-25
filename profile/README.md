@@ -1,4 +1,4 @@
-# 🐾 Welcome to MancFurs Official GitHub
+# Welcome to MancFurs Official GitHub
 
 MancFurs is a **diverse community of costumers and fans of anthropomorphised animals**, hosting furmeets in the City of Manchester.
 We bring people together through regular events - both in-person and online.
