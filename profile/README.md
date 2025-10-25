@@ -24,7 +24,7 @@ Public repositories may include:
 - Documentation or guides  
 - Open-source resources and contributions  
 
-If you’re a contributor or collaborator, please follow our internal policies regarding data handling and access control.
+If you wish to use any code found in our public repositories, please make sure you give appropriate credit to MancFurs Ltd.
 
 ---
 
