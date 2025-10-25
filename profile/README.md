@@ -41,7 +41,7 @@ Limited by Guarantee (non-profit structure)
 
 - 🌍 Website: [https://mancfurs.org.uk](https://mancfurs.org.uk)  
 - 🧭 Support: [https://support.mancfurs.org.uk](https://support.mancfurs.org.uk)  
-- 💬 Socials: [https://mancfurs.org.uk/socials/](https://mancfurs.org.uk/socials/) *(if applicable)*  
+- 💬 Socials: [https://mancfurs.org.uk/socials/](https://mancfurs.org.uk/socials/)
 
 ---
 
